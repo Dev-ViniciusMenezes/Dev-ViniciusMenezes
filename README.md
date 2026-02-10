@@ -53,5 +53,4 @@ I work with both **relational** and **non-relational databases**, using **SQL** 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skillicons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg"width="40" height="40" title="Postman"/>
   
