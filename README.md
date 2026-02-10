@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Marques</h1>
-<h3 align="center">Aspiring Junior Java Developer | Back-end focused on Java and Spring Boot</h3>
+<h3 align="center">Aspiring Junior Java Developer </h3>
 
 <p align="center">
 I’m an aspiring <strong>Junior Java Developer</strong>, currently building a solid foundation in back-end development through structured study and continuous practice.
