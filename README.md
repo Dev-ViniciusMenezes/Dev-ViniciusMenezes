@@ -1,63 +1,62 @@
-<h1 align="center">Hi , I'm Vinicius Marques</h1>
-<h3 align="center">Aspiring Junior Java Developer | Studying Java, Spring Boot and Microservices</h3>
+<h1 align="center">Hi, I'm Vinicius Marques 👋</h1>
+<h3 align="center">Aspiring Junior Java Developer | Studying Java, Spring Boot & Microservices</h3>
 
 <p align="center">
-I’m an aspiring <strong>Junior Java Developer</strong>, currently building a solid foundation in back-end development through structured study and continuous practice.
-</p>
-
-<p align="center">
-My focus is on <strong>Java and the Spring ecosystem</strong>, learning how to design <strong>RESTful APIs</strong>, apply <strong>Object-Oriented Programming</strong> principles, and follow <strong>clean code</strong> and <strong>layered architecture</strong> practices.
-</p>
-
-<p align="center">
-I work with both <strong>relational</strong> and <strong>non-relational databases</strong>, using <strong>SQL</strong> and <strong>MongoDB</strong>, with attention to data modeling and consistency.
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
 </p>
 
 ---
 
-<h3 align="left">🌱 Currently learning & practicing:</h3>
-<ul>
-  <li>Java (OOP, interfaces, abstract classes, inheritance, polymorphism)</li>
-  <li>Spring Boot (REST APIs, validations, exception handling)</li>
-  <li>Spring Data JPA / Hibernate</li>
-  <li>SQL databases (MySQL, PostgreSQL)</li>
-  <li>MongoDB (NoSQL, document-oriented databases)</li>
-  <li>DTOs, clean code, and layered architecture</li>
-  <li>Java Collections, Streams, and Date/Time API</li>
-</ul>
+## About Me
+
+I’m an aspiring **Junior Java Developer**, building a solid foundation in **back-end development** through structured study and hands-on practice.  
+I focus on **Java and the Spring ecosystem**, learning to design **RESTful APIs**, apply **Object-Oriented Programming (OOP)** principles, and follow **clean code** and **layered architecture** practices.  
+
+I work with both **relational** and **non-relational databases**, using **SQL** and **MongoDB**, ensuring proper **data modeling** and **consistency**.
 
 ---
 
-<h3 align="left">🌍 Languages:</h3>
-<ul>
-  <li><strong>Portuguese:</strong> Native</li>
-  <li><strong>English:</strong> Intermediate (A2)</li>
-</ul>
+## 🌱 Currently Learning & Practicing
+
+- Java: OOP, interfaces, abstract classes, inheritance, polymorphism  
+- Spring Boot: REST APIs, validations, exception handling  
+- Spring Data JPA / Hibernate  
+- SQL Databases: MySQL, PostgreSQL  
+- MongoDB (NoSQL, document-oriented databases)  
+- DTOs, clean code, and layered architecture  
+- Java Collections, Streams, and Date/Time API  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌍 Languages
+
+- **Portuguese:** Native  
+- **English:** Intermediate (A2)  
+
+---
+
+## 🔗 Connect with me
+
 <p align="left">
   <a href="https://github.com/Dev-ViniciusMenezes" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-         alt="github" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="36" height="36"/>
   </a>
   <a href="https://www.linkedin.com/in/vinicius-marques-62a7592bb/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-         alt="linkedin" width="36" height="36"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="36" height="36"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages & Tools
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" title="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
 </p>
