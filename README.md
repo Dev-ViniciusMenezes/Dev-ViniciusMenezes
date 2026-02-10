@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Marques</h1>
-<h3 align="center">Aspiring Junior Java Developer </h3>
+<h3 align="center">Aspiring Junior Java Developer | Back-end focused on Java and Spring Boot</h3>
 
 <p align="center">
 I’m an aspiring <strong>Junior Java Developer</strong>, currently building a solid foundation in back-end development through structured study and continuous practice.
@@ -38,7 +38,18 @@ I work with both <strong>relational</strong> and <strong>non-relational database
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- Add LinkedIn or email here when you want -->
+  <a href="https://github.com/Dev-ViniciusMenezes" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+         alt="github"
+         width="40"
+         height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-marques-62a7592bb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="linkedin"
+         width="40"
+         height="40"/>
+  </a>
 </p>
 
 ---
