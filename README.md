@@ -12,18 +12,6 @@ I work with both **relational** and **non-relational databases**, using **SQL** 
 
 ---
 
-## 🌱 Currently Learning & Practicing
-
-- Java: OOP, interfaces, abstract classes, inheritance, polymorphism  
-- Spring Boot: REST APIs, validations, exception handling  
-- Spring Data JPA / Hibernate  
-- SQL Databases: MySQL, PostgreSQL  
-- MongoDB (NoSQL, document-oriented databases)  
-- DTOs, clean code, and layered architecture  
-- Java Collections, Streams, and Date/Time API  
-
----
-
 ## 🌍 Languages
 
 - **Portuguese:** Native  
