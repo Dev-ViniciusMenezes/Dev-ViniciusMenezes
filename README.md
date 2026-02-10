@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vinicius Marques 👋</h1>
+<h1 align="center">Hi, I'm Vinicius Marques </h1>
 <h3 align="center">Aspiring Junior Java Developer | Studying Java, Spring Boot & Microservices</h3>
 
 ---
