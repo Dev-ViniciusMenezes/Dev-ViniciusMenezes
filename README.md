@@ -14,7 +14,6 @@ I work with both **relational** and **non-relational databases**, using **SQL** 
 
 ## 🌍 Languages
 
-- **Portuguese:** Native  
 - **English:** Intermediate (A2)  
 
 ---
