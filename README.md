@@ -44,6 +44,4 @@ I work with both **relational** and **non-relational databases**, using **SQL** 
   <img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" title="JUnit"/>
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" title="Mockito"/>
 </p>
