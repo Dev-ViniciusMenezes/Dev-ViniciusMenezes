@@ -41,6 +41,7 @@ I work with both **relational** and **non-relational databases**, using **SQL** 
   <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" title="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git"/>
   <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" title="Postman"/>
   <img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" title="JavaScript"/>
