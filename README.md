@@ -21,11 +21,11 @@ I work with both **relational** and **non-relational databases**, using **SQL** 
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://github.com/Dev-ViniciusMenezes" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="36" height="36"/>
+  <a href="https://github.com/Dev-ViniciusMenezes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="36" height="36"/>
   </a>
-  <a href="https://www.linkedin.com/in/vinicius-marques-62a7592bb/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="36" height="36"/>
+  <a href="https://www.linkedin.com/in/dev-vinicius-menezes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36"/>
   </a>
 </p>
 
@@ -34,10 +34,16 @@ I work with both **relational** and **non-relational databases**, using **SQL** 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" title="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" title="JUnit"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" title="Mockito"/>
+</p>
