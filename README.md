@@ -31,7 +31,7 @@ My goal is to build **scalable, well-structured back-end applications** while co
 
 ## Connect with me
 
-<p align="center">
+<p>
 <a href="https://github.com/Dev-ViniciusMenezes">
 <img src="https://skillicons.dev/icons?i=github" height="35"/>
 </a>
@@ -40,7 +40,7 @@ My goal is to build **scalable, well-structured back-end applications** while co
 <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
 
-<a href="mailto:viniciusmenezesdev@gmail.com" target="_blank">
+<a href="mailto:viniciusmenezesdev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
 </p>
