@@ -35,7 +35,12 @@ My goal is to build **scalable, well-structured back-end applications** while co
 <a href="https://github.com/Dev-ViniciusMenezes">
 <img src="https://skillicons.dev/icons?i=github" height="35"/>
 </a>
+
 <a href="https://www.linkedin.com/in/dev-vinicius-menezes">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+
+<a href="mailto:viniciusmenezesdev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
 </p>
