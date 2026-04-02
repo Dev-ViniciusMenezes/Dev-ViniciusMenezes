@@ -9,13 +9,16 @@ Junior Java Developer in training • Java • Spring Boot • REST APIs
 
 I’m an **aspiring Junior Java Developer** focused on **back-end development** with **Java and Spring Boot**.
 
-Currently studying and building projects involving:
+### Core Skills
 
 - REST API development  
 - Object-Oriented Programming (OOP)  
 - Clean Code principles  
 - Layered architecture  
 - SQL and database modeling  
+- Spring Boot (REST APIs, configuration)  
+- Spring Data JPA (persistence, repositories)  
+- Spring Security (JWT, authentication & authorization)  
 
 My goal is to build **scalable, well-structured back-end applications** while continuously improving my skills.
 
